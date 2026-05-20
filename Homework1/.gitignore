@@ -1,0 +1,24 @@
+# Virtual environment (managed by uv)
+.venv/
+
+# Raw and interim data (large, reproducible from source)
+data/raw/
+data/interim/
+
+# Large binary outputs
+*.parquet
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Output files (keep .gitkeep so the dirs are tracked)
+output/figures/
+output/tables/
+
+# OS
+.DS_Store
