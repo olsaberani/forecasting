@@ -19,6 +19,7 @@ __pycache__/
 # Output files (keep .gitkeep so the dirs are tracked)
 output/figures/
 output/tables/
+Homework1/CLAUDE_CODE_PROMPTS.md
 
 # OS
 .DS_Store
