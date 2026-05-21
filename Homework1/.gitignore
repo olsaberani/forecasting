@@ -5,8 +5,9 @@
 data/raw/
 data/interim/
 
-# Large binary outputs
+# Large binary outputs — exclude raw/interim parquets but track processed results
 *.parquet
+!data/processed/*.parquet
 
 # Notebook checkpoints
 .ipynb_checkpoints/
