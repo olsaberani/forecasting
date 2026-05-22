@@ -554,6 +554,7 @@ requires-dist = [
     { name = "openpyxl", specifier = ">=3.1.5" },
     { name = "pandas", specifier = ">=3.0.2" },
     { name = "pandas-datareader", specifier = ">=0.10.0" },
+    { name = "panelsplit" },
     { name = "panelsplit", specifier = ">=2.1.1" },
     { name = "pyarrow", specifier = ">=24.0.0" },
     { name = "pytrends", specifier = ">=4.9.2" },
